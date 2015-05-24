@@ -1,0 +1,3 @@
+[submodule "FastBitmap"]
+	path = FastBitmap
+	url = git@github.com:rasberry/FastBitmap.git
